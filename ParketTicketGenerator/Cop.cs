@@ -19,6 +19,7 @@ namespace ParketTicketGenerator
 
             public String Name
             {
+            //hello
                 get { return _name; }
             }
 
