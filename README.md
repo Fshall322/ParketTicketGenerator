@@ -1,3 +1,3 @@
 # ParketTicketGenerator
-Generates a parking ticket for idiots.
+Generates a parking ticket .
 
